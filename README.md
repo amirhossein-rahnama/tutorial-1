@@ -41,11 +41,11 @@ pyinstaller worm.py
 
 ## Contributing
 
-1. Fork it (<https://github.com/pylyf/NetWorm/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+
+1. Create your feature branch (`git checkout -b feature/fooBar`)
+2. Commit your changes (`git commit -am 'Add some fooBar'`)
+3. Push to the branch (`git push origin feature/fooBar`)
+4. Create a new Pull Request
 
 ## Legal Advice
 This repository and every script included in it is for educational and testing purposes only.
